@@ -8,7 +8,7 @@ I've been learning to code for one year. I have started with Java from scratch a
 
 * 🌍  I'm based in Prague, Czech Republic
 * ✉️  You can contact me at [katerina.vratilova@gmail.com](mailto:katerina.vratilova@gmail.com)
-* 🧠  I'm learning Spring, Angular
+* 🧠  I'm learning Java, Spring, Angular, SQL, html, css
 * ⚡  I like listening to podcast, cooking and working out
 
 ### Skills
