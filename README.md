@@ -1,14 +1,14 @@
 Hi 👋 My name is Katerina Vratilova
 ===================================
 
-Aspiring Java Developer
+
 -----------------------
 
 I've been learning to code for one year. I have started with Java from scratch and I'm on the path to building my own portfolio.
 
 * 🌍  I'm based in Prague, Czech Republic
 * ✉️  You can contact me at [katerina.vratilova@gmail.com](mailto:katerina.vratilova@gmail.com)
-* 🧠  I'm learning Java, Spring, Angular, SQL, html, css
+* 🧠  I'm learning C#, .NET, SQL
 * ⚡  I like listening to podcasts, cooking and working out
 
 ### Skills
